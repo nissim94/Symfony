@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="php.exe" id="9a67eb91-fad4-44b1-8eb6-2e7757551f6e" name="Interpreter for Composer" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings />
+    </phpunit_settings>
+  </component>
+</project>
